@@ -110,3 +110,5 @@ Files with numeric stems (e.g. `00000417.json`) are sorted and used to derive fr
 
 Coordinate system: Y-up, right-handed (Maya default). Units: centimetres.
 
+![screenshot1](readme_media/screenshot1.png)
+![screenshot2](readme_media/screenshot2.png)
